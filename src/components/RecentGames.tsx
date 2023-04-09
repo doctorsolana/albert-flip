@@ -19,7 +19,7 @@ const Container = styled.div`
     pointer-events: none;
     a {
       pointer-events: auto;
-      color: unset;
+     
     }
   }
 `
@@ -27,7 +27,7 @@ const Container = styled.div`
 const Wrapper = styled.div`
   display: flex;
   font-size: 12px;
-  color: white;
+  color: black;
   display: flex;
   gap: 20px;
   & > div {
