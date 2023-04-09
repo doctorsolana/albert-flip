@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
     color: white;
     text-align: center;
-    background: #090a0d;
+    background-image: url('./../public/bg.png');
     cursor: default;
   }
   h1, h2, h3, h4 {
