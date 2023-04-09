@@ -37,7 +37,7 @@ const InputCSS = css`
   border-radius: 10px;
   border: none;
   background: rgb(47 51 60);
-  color: black;
+  color: white;
   outline: none;
   transition: background .1s;
   &:focus {
