@@ -19,7 +19,6 @@ const Wrapper = styled.div`
 
 const Link = styled.a`
   text-decoration: unset;
-  color: unset;
   font-weight: bold;
   display: flex;
   align-items: center;
