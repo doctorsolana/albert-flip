@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
   }
   body {
     margin: 0;
-    color: white;
+    color: black;
     text-align: center;
     background-image: url('/bg.png');
     cursor: default;
