@@ -28,14 +28,14 @@ const Link = styled.a`
 `
 
 const Title = styled.h1`
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
 `
 
 const Subtitle = styled.h2`
   font-weight: normal;
   font-size: 14px;
-  color: #ccc;
+  color: black;
 `
 
 export function Header() {
